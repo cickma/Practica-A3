@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+modificacion archivo en func14
+=======
+modificacion en branch func13
+>>>>>>> func13
